@@ -1,5 +1,23 @@
-# Password_OP
+# 🔐 Password_OP | Secure Password Manager
 
-This template provides a minimal setup to get React working in Vite.
+A full-stack MERN application that allows users to securely store, manage, and copy their website credentials. This project demonstrates a complete CRUD workflow, API integration, and modern UI styling.
 
-Developed a full-stack password manager using the MERN stack to store and manage user credentials. Built RESTful APIs with Node.js and Express, integrated MongoDB for persistent storage, and connected the backend with a React frontend for performing CRUD operations on saved passwords. The project strengthened my understanding of API design, database integration, and full-stack workflow.
+## 🚀 Features
+- **Full CRUD Functionality:** Create, Read, Update, and Delete password entries.
+- **Database Persistence:** Integrated with MongoDB for reliable data storage.
+- **Instant Feedback:** Integrated `react-toastify` for success/error notifications.
+- **Copy to Clipboard:** One-click copying for URLs, usernames, and passwords.
+- **Modern UI:** Built with Tailwind CSS and interactive LordIcons.
+- **Unique Identification:** Uses `uuid` to ensure every entry has a distinct ID.
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Vite
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **APIs:** RESTful API design
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/yourusername/Password_OP.git](https://github.com/yourusername/Password_OP.git)
